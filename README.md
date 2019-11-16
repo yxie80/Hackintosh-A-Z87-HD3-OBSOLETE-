@@ -1,6 +1,9 @@
 # Hackintosh
 Joost's Hackintosh system (MacOS 10.15.1 on GA-Z87-HD3, i5 4670K and RX 570)
 
+- Attached screenshots of the settings in Clover Configurator
+- Attached zip of EFI folder, which you can use if you have the same/similair system.
+
 # PC specifications:
 - Processor: Intel Core i5 4670K Boxed (Haswell)
 - Motherboard: Gigabyte GA-Z87-HD3
@@ -16,7 +19,19 @@ Joost's Hackintosh system (MacOS 10.15.1 on GA-Z87-HD3, i5 4670K and RX 570)
 https://www.tonymacx86.com/threads/how-to-create-a-macos-catalina-public-beta-installation-usb.278188/ 
 
 # Notes:
-I didn’t do anything at all with the Library/Extensions folder myself (it has lots of files in in though). For kexts, I only used the EFI/CLOVER/kexts/Other/ folder.
+- I didn’t do anything at all with the Library/Extensions folder myself (it has lots of files in in though). For kexts, I only used the EFI/CLOVER/kexts/Other/ folder.
+
+# Kexts:
+Make sure (!) you are using the latest kexts from the internet: 
+
+- FakeSMC.kext (Only install FakeSMC.kext, nothing else)
+https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/
+- USBInjectAll.kext
+https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/
+- Lilu.kext
+https://github.com/acidanthera/Lilu/releases
+- WhateverGreen.kext
+https://github.com/acidanthera/WhateverGreen/releases
 
 # Work Procedure:
 - Step 1: 
@@ -40,10 +55,10 @@ Restart
 Select and start the SSD (intel SSD) which installed Catalina.
  
 # Confirmed working
--	Video
+-	CPU, RAM, Fans, etc.
+- Video
 -	Ethernet
--	Sound (with a customization for Stereo speakers and 1 Subwoofer) 
--	
+-	Sound (with a customization for Stereo speakers and 1 Subwoofer)
 
 # Resources
 https://www.tonymacx86.com/resources/clover-configurator.429/ 
