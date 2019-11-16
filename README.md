@@ -1,6 +1,8 @@
 # Hackintosh
 Joost's Hackintosh system (MacOS 10.15.1 on GA-Z87-HD3, i5 4670K and RX 570)
 
+![alt test](/Pictures/AboutFinder.png)
+
 - Attached screenshots of the settings in Clover Configurator
 - Attached zip of EFI folder, which you can use if you have the same/similair system.
 
