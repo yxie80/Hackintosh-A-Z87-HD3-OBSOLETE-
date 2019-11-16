@@ -16,7 +16,7 @@ Joost's Hackintosh system (MacOS 10.15.1 on GA-Z87-HD3, i5 4670K and RX 570)
 https://www.tonymacx86.com/threads/how-to-create-a-macos-catalina-public-beta-installation-usb.278188/ 
 
 # Notes:
-I didn’t do anything at all with the Library/Extensions folder. For kexts, I only used the EFI/CLOVER/kexts/Other/ folder.
+I didn’t do anything at all with the Library/Extensions folder myself (it has lots of files in in though). For kexts, I only used the EFI/CLOVER/kexts/Other/ folder.
 
 # Work Procedure:
 - Step 1: 
