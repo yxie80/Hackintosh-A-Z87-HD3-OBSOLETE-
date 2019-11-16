@@ -54,7 +54,7 @@ Prepare the permissions.
 - Step 6:
 Restart
 - Step 7: 
-Select and start the SSD (intel SSD) which installed Catalina.
+Select and start the SSD on which Catalina is installed on.
  
 # Confirmed working
 -	CPU, RAM, Fans, etc.
