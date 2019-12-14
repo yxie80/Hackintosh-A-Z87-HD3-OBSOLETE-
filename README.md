@@ -1,10 +1,11 @@
 # Hackintosh
-Joost's Hackintosh system (MacOS 10.15.1 on GA-Z87-HD3, i5 4670K and RX 570)
+Joost's Hackintosh system (MacOS 10.15.2 on GA-Z87-HD3, i5 4670K and RX 570)
 
 ![alt test](/Pictures/AboutFinder.png)
 
 - Attached screenshots of the settings in Clover Configurator
-- Attached zip of EFI folder, which you can use if you have the same/similair system.
+- Attached zip of EFI folder, which you can use if you have the same/similair system
+- Updated succesfully from 10.15.1 to 10.15.2 with latest Kext files
 
 # PC specifications:
 - Processor: Intel Core i5 4670K Boxed (Haswell)
@@ -12,7 +13,7 @@ Joost's Hackintosh system (MacOS 10.15.1 on GA-Z87-HD3, i5 4670K and RX 570)
 - Sound card (onboard): Realtek ALC892 audio chip
 - SSD storage: Crucial Crucial MX500, 1TB 
 - Graphic card: Sapphire Nitro+ Radeon RX 570 4GD5
-- OS installed: Catalina 10.15.1 dualbooted with Windows 10
+- OS installed: Catalina 10.15.2 dualbooted with Windows 10
 
 # Prerequisites:
 -	Patience (this was hard for me)
