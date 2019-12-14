@@ -36,6 +36,18 @@ https://github.com/acidanthera/Lilu/releases
 - WhateverGreen.kext
 https://github.com/acidanthera/WhateverGreen/releases
 
+# BIOS Settings (from tonymacx86.com):
+- To access BIOS/UEFI Setup, press and hold Delete on a USB Keyboard while the system is booting up
+- Load Optimized Defaults
+- If your CPU supports VT-d, disable it
+- If your system has CFG-Lock, disable it
+- If your system has Secure Boot Mode, disable it
+- Set OS Type to Other OS
+- If your system has IO Serial Port, disable it
+- Set XHCI Handoff to Enabled
+- If you have a 6 series or x58 system with AWARD BIOS, disable USB 3.0
+- Save and exit.
+
 # Work Procedure:
 - Step 1: 
 After power on, press F12 to select bootable USB.
@@ -67,3 +79,4 @@ Select and start the SSD on which Catalina is installed on.
 https://www.tonymacx86.com/resources/clover-configurator.429/ 
 https://hackintosh.gitbook.io 
 https://www.tonymacx86.com/threads/how-to-create-a-macos-catalina-public-beta-installation-usb.278188/
+https://www.tonymacx86.com/threads/unibeast-install-macos-mojave-on-any-supported-intel-based-pc.259381/#uefi_settings
