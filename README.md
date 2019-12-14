@@ -75,6 +75,11 @@ Select and start the SSD on which Catalina is installed on.
 -	Ethernet
 -	Sound
 
+# Extras
+- Hide unneeded volumes in Clover with Clover Configurator. I've hide the following volumes:
+
+![alt test](/Pictures/HideVolumes.png)
+
 # Resources
 https://www.tonymacx86.com/resources/clover-configurator.429/ 
 https://hackintosh.gitbook.io 
