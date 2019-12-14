@@ -45,7 +45,7 @@ Be sure to insert the USB into the USB 2.0 port.
 Install macOS Catalina on Any Supported Intel-based PC.
 I have omitted the detailed steps above. Only thing you should do, is during the entire process, boot via the USB stick.
 - Step 3 (perhaps this step is redundant to step 4, but I did it anyhow): 
-After installation is complete, install Clover (Clover_V2.5k_r5098 by Dids), install Clover Configurator and update it first. After that, mount the EFI of the SSD with Clover Configurator.
+After installation is complete, install Clover (Clover_v2.5k_r5100 by Dids), install Clover Configurator and update it first. After that, mount the EFI of the SSD with Clover Configurator.
 - Step 4: 
 Delete the EFI folder of the SSD (intel SSD) with Catalina installed and EFI.ZIP
 Please paste and unzip. And extract it in your EFI folder.
@@ -61,7 +61,7 @@ Select and start the SSD on which Catalina is installed on.
 -	CPU, RAM, Fans, etc.
 - Video
 -	Ethernet
--	Sound (with a customization for Stereo speakers and 1 Subwoofer)
+-	Sound
 
 # Resources
 https://www.tonymacx86.com/resources/clover-configurator.429/ 
