@@ -1,11 +1,11 @@
 # Hackintosh
-Joost's Hackintosh system (MacOS 10.15.2 on GA-Z87-HD3, i5 4670K and RX 570)
+Joost's Hackintosh system (MacOS 10.15.3 on GA-Z87-HD3, i5 4670K and RX 570)
 
 ![alt test](/Pictures/AboutFinder.png)
 
 - Attached screenshots of the settings in Clover Configurator
 - Attached zip of EFI folder, which you can use if you have the same/similair system
-- Updated succesfully from 10.15.1 to 10.15.2 with latest Kext files
+- Updated succesfully to 10.15.3
 
 # PC specifications:
 - Processor: Intel Core i5 4670K Boxed (Haswell)
@@ -14,6 +14,7 @@ Joost's Hackintosh system (MacOS 10.15.2 on GA-Z87-HD3, i5 4670K and RX 570)
 - SSD storage: Crucial Crucial MX500, 1TB 
 - Graphic card: Sapphire Nitro+ Radeon RX 570 4GD5
 - OS installed: Catalina 10.15.2 dualbooted with Windows 10
+- Fenvi T919 for AirDrop etc.
 
 # Prerequisites:
 -	Patience (this was hard for me)
@@ -69,11 +70,18 @@ Restart
 - Step 7: 
 Select and start the SSD on which Catalina is installed on.
  
+# Updating Hackintosh
+ First, install latest Clover build (Did's version) and update kexts, then update to latest MacOS.
+ 
 # Confirmed working
 -	CPU, RAM, Fans, etc.
 - Video
 -	Ethernet
 -	Sound
+- AirDrop (fenvi)
+- WiFi (fenvi)
+- Bluetooth (fenvi)
+- Login with Apple Watch
 
 # Extras
 - Hide unneeded volumes in Clover with Clover Configurator. I've hide the following volumes:
