@@ -4,7 +4,10 @@ Joost's Hackintosh system (MacOS 10.15.3 on GA-Z87-HD3, i5 4670K and RX 570)
 ![alt test](/Pictures/AboutFinder.png)
 
 - Attached screenshots of the settings in Clover Configurator
-- Attached zip of EFI folder, which you can use if you have the same/similair system
+- Attached zip of EFI folder, which you can use if you have the same/similair system; Backup URL:
+# EFI ZIP file:
+https://mega.nz/#F!19hUSKwa!nwK-9eVL7JGEw48R9FrAeg 
+
 - Updated succesfully to 10.15.3
 
 # PC specifications:
@@ -13,7 +16,7 @@ Joost's Hackintosh system (MacOS 10.15.3 on GA-Z87-HD3, i5 4670K and RX 570)
 - Sound card (onboard): Realtek ALC892 audio chip
 - SSD storage: Crucial Crucial MX500, 1TB 
 - Graphic card: Sapphire Nitro+ Radeon RX 570 4GD5
-- OS installed: Catalina 10.15.2 dualbooted with Windows 10
+- OS installed: Catalina 10.15.3 dualbooted with Windows 10
 - Fenvi T919 for AirDrop etc.
 
 # Prerequisites:
@@ -71,7 +74,7 @@ Restart
 Select and start the SSD on which Catalina is installed on.
  
 # Updating Hackintosh
- First, install latest Clover build (Did's version) and update kexts, then update to latest MacOS.
+ First, install latest Clover build (https://github.com/CloverHackyColor/CloverBootloader/releases) and update kexts, then update to latest MacOS.
  
 # Confirmed working
 -	CPU, RAM, Fans, etc.
@@ -89,6 +92,7 @@ Select and start the SSD on which Catalina is installed on.
 ![alt test](/Pictures/HideVolumes.png)
 
 # Resources
+https://github.com/CloverHackyColor/CloverBootloader/releases
 https://www.tonymacx86.com/resources/clover-configurator.429/ 
 https://hackintosh.gitbook.io 
 https://www.tonymacx86.com/threads/how-to-create-a-macos-catalina-public-beta-installation-usb.278188/
