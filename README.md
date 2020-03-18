@@ -4,11 +4,11 @@ Joost's Hackintosh system (MacOS 10.15.3 on GA-Z87-HD3, i5 4670K and RX 570)
 ![alt test](/Pictures/AboutFinder.png)
 
 - Attached screenshots of the settings in Clover Configurator
-- Attached zip of EFI folder, which you can use if you have the same/similair system; Backup URL:
+- Updated succesfully to 10.15.3
+
 # EFI ZIP file:
 https://mega.nz/#F!19hUSKwa!nwK-9eVL7JGEw48R9FrAeg 
 
-- Updated succesfully to 10.15.3
 
 # PC specifications:
 - Processor: Intel Core i5 4670K Boxed (Haswell)
