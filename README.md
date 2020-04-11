@@ -1,3 +1,6 @@
+PLEASE NOTE THAT I DON'T SUPPORT THIS PAGE/EFI ANYMORE SINCE I BOUGHT A NEW PC. Thank you. Joost, 11-April-2020. 
+
+
 # Hackintosh
 Joost's Hackintosh system (MacOS 10.15.3 on GA-Z87-HD3, i5 4670K and RX 570)
 
